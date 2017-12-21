@@ -24,9 +24,6 @@ know very much about each other. For instance, the Subject knows that it has a l
  the other observers. You can also update the Subject to include new properties, and you don't 
  have to go back and update all Observers using the subject.
 
-
-
-
 ### Notes from Chapter 2 exercise
 
 
